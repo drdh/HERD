@@ -1,0 +1,11 @@
+build/
+evogym/simulator/externals
+evogym.egg-info/
+dist/
+**__pycache__
+*.pyc
+.idea
+examples/saved_data
+examples/visual
+examples/externals/pytorch_a2c_ppo_acktr_gail/logs
+examples/externals/pytorch_a2c_ppo_acktr_gail/time_limit_logs
